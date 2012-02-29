@@ -32,3 +32,80 @@ Product.create(title: "Adams CB 2 Irons",
   </p>},
   image_url: 'cb2_4.JPG',
   price: 30)
+Product.create(title: "Mizuno Pro II Irons",
+  description: %{ <p>
+    Mizuno Pro II Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2
+Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_2.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_3.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_4.JPG',
+  price: 30)
+Product.create(title: "Mizuno Pro II Irons",
+  description: %{ <p>
+    Mizuno Pro II Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2
+Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_2.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_3.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_4.JPG',
+  price: 30)
+Product.create(title: "Mizuno Pro II Irons",
+  description: %{ <p>
+    Mizuno Pro II Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2
+Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_2.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_3.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_4.JPG',
+  price: 30)
+Product.create(title: "Mizuno Pro II Irons",
+  description: %{ <p>
+    Mizuno Pro II Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2
+Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_2.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_3.JPG',
+  price: 30)
+Product.create(title: "Adams CB 2 Irons",
+  description: %{ <p>
+    Adams CB 2 Copy blah blah blah  Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah    Adams CB 2 Copy blah blah blah
+  </p>},
+  image_url: 'cb2_4.JPG',
+  price: 30)
+
